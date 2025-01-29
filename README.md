@@ -1,3 +1,3 @@
 # OpenFoodFacts
 
-## Ceci est une analyse openfoodfacts
+## Ceci est une analyse openfoodfacts.
